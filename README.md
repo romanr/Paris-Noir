@@ -10,18 +10,6 @@ Paris Noir is a carefully crafted dark theme for Xcode, designed for long nights
 - Thoughtful syntax highlighting without visual noise  
 - Ideal for late-night coding sessions  
 
-## Installation
-1. Download the `.xccolortheme` file  
-2. Open Xcode  
-3. Go to **Settings → Themes**  
-4. Drag the theme file into the Themes list  
-
-Alternatively, copy the file to:
-
-```swift
-~/Library/Developer/Xcode/UserData/FontAndColorThemes
-```
-
 ## Screenshots
 
 <p align="center">
@@ -33,6 +21,18 @@ Alternatively, copy the file to:
 <p align="center">
   <img src="resources/screenshot3.png" width="100%">
 </p>
+
+## Installation
+1. Download the `.xccolortheme` file  
+2. Open Xcode  
+3. Go to **Settings → Themes**  
+4. Drag the theme file into the Themes list  
+
+Alternatively, copy the file to:
+
+```swift
+~/Library/Developer/Xcode/UserData/FontAndColorThemes
+```
 
 ## License
 MIT
